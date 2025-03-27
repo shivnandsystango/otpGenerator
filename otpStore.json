@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "user123",
+    "otp": "9402",
+    "generationTime": 1743074587249
+  },
+  {
+    "userId": "user456",
+    "otp": "171267",
+    "generationTime": 1743073573580
+  },
+  {
+    "userId": "user4567",
+    "otp": "836051",
+    "generationTime": 1743073718818
+  },
+  {
+    "userId": "user345456",
+    "otp": "6936",
+    "generationTime": 1743073781906
+  },
+  {
+    "userId": "user245",
+    "otp": "2311",
+    "generationTime": 1743074245769
+  },
+  {
+    "userId": "user2345",
+    "otp": "8602",
+    "generationTime": 1743074445902
+  }
+]
